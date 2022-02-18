@@ -9,7 +9,7 @@ Hi, I’m Thi Thanh Tu DUONG!   <img src="https://emoji.gg/assets/emoji/9085-tot
  <br><br/>
 </details>
 
-![divider](https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif)
+![divider](https://images.squarespace-cdn.com/content/v1/5177069ae4b084b94e497172/1628036007262-YR3SOQ73BKX69NDIKEY9/image-asset.gif)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
