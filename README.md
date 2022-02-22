@@ -21,8 +21,6 @@ Hi, I’m Thi Thanh Tu DUONG!   <img src="https://emoji.gg/assets/emoji/9085-tot
 	<code><a href="mailto:thanhtuduong0103@gmail.com"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" title="Gmail"/></a></code>
   </p>
 
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=luvluvdt3&label=Profile+Views" alt="luvluvdt3" />
-  </p>
+
 </p>
  
