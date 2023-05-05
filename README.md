@@ -4,8 +4,8 @@ Hi, I’m Thi Thanh Tu DUONG!   <img src="https://emoji.gg/assets/emoji/9085-tot
 ## 📈 Github Stats
 
 <p align="left">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luvluvdt3&count_private=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luvluvdt3&count_private=true&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luvluvdt3&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luvluvdt3&layout=compact&langs_count=8&theme=react&include_all_commits=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
  <br><br/>
 </details>
