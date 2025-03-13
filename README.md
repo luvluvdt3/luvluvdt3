@@ -5,7 +5,6 @@ Hi, I’m Thi Thanh Tu DUONG!   <img src="https://emoji.gg/assets/emoji/9085-tot
 <p align="center">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luvluvdt3&show_icons=true&count_private=true&theme=radical&include_all_commits=true"/>
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luvluvdt3&layout=compact&langs_count=8&theme=radical&include_all_commits=true"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=luvluvdt3&theme=radical" alt="GitHub Streak"/>
 </p>
 </details>
 <p align="center">
