@@ -1,4 +1,4 @@
-Hi, I’m Thi Thanh Tu DUONG!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+Hi, I’m Tu!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.linkedin.com/in/th%E1%BB%8B-thanh-t%C3%BA-d%C6%B0%C6%A1ng-aa17581b2/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> 
 <a href="#"><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240 " height="135" /></a>
 ## 📈 Github Stats
