@@ -10,14 +10,5 @@ Hi, I’m Tu!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-	<code><a href="https://www.linkedin.com/in/th%E1%BB%8B-thanh-t%C3%BA-d%C6%B0%C6%A1ng-aa17581b2/"><img width="30px" src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/6ec1e44d-f01a-4ce2-9cbf-314d6f085e45.png" title="Linkedin"/></a></code>
-	<code><a href="mailto:thanhtuduong0103@gmail.com"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" title="Gmail"/></a></code>
-  </p>
-
-
-</p>
  
